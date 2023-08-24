@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**allLifeForJava/allLifeForJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Ihor Murashko 
+## Java developer
+ * ### I work with:
+   * Java Core;
+   * Spring (Spring Boot, MVC)
+   * SQL (MySQL, PostgreSQL);
+   * Git;
+   * Hibernate;
+   * Thymeleaf and HTML;
+   * JUnit and Mockito;
+  
+#### I am currently living in Slovenia and looking for a job as a Java developer.
+#### I have good knowledge and an extraordinary desire to realize myself as a developer.
+#### I like to fully devote myself to my work, constantly deepen my knowledge and develop as a specialist in my field.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact with me:
+[telegram](https://t.me/how_are_we_different) | 
+[LinkedIn](https://www.linkedin.com/in/ihor-murashko) | 
+[facebook](https://www.facebook.com/krckw00)
