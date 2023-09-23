@@ -2,12 +2,16 @@
 # I am Ihor Murashko 
 ## Java developer
  * ### I work with:
-   * Java Core;
-   * Spring (Spring Boot, MVC)
+   * SOLID principles;
+   * Design Patterns;
+   * Java 11;
    * SQL (MySQL, PostgreSQL);
-   * Git;
+   * Spring (MVC, Data, JPA);
    * Hibernate;
-   * Thymeleaf and HTML;
+   * Git;
+   * Maven;
+   * HTML;
+   * Thymeleaf;
    * JUnit and Mockito;
   
 #### I am currently living in Slovenia and looking for a job as a Java developer.
