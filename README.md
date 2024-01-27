@@ -11,7 +11,7 @@
    * Git;
    * Maven;
    * HTML;
-   * Thymeleaf;
+   * Docker;
    * JUnit and Mockito;
   
 #### I am currently living in Slovenia and looking for a job as a Java developer.
